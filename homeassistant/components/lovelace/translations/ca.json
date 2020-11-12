@@ -3,12 +3,8 @@
         "info": {
             "dashboards": "Panells",
             "mode": "Mode",
-<<<<<<< HEAD
             "resources": "Recursos",
             "views": "Visualitzacions"
-=======
-            "resources": "Recursos"
->>>>>>> [ci skip] Translation update
         }
     }
 }
