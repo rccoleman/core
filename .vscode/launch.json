@@ -13,7 +13,8 @@
         "--debug",
         "-c",
         "config"
-      ]
+      ],
+      "justMyCode": false
     },
     {
       // Debug by attaching to local Home Asistant server using Remote Python Debugger.
